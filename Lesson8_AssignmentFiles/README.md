@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/05/2017
 
 ### Student Name:  
-(First and Last Name)
+Humphrey Minott
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create Seminole Movie Connection using OMDB api. This application allows the user to enter a movie title and find varying information about that movie!
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://humphreyminott.github.io/-lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use API in terms of making requests
+2. Adding parameters for application
+3. Network tab on page inspection to see all the information I can request
